@@ -1,7 +1,7 @@
 {
   "name": "rethinkdb-createtables",
   "version": "0.0.0",
-  "description": "A helper method to create multiple RethinkDB tables",
+  "description": "A helper method to create one or more RethinkDB tables",
   "keywords": [
     "rethinkdb",
     "table",

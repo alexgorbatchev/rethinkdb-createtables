@@ -1,6 +1,6 @@
 # rethinkdb-createtables
 
-Creates one or more RethinkDB tables.
+A helper method to create one or more RethinkDB tables.
 
 * If a table is not present, creates it
 * If a table is present, does nothing
